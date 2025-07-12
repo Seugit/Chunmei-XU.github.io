@@ -21,11 +21,11 @@ We introduce **GenCom**, a GenAI-powered framework for lightweight, low-SNR, hig
 - GenAI-enabled receiver
 - Robust transmission under poor channels
 
-![Architecture](/assets/images/gencom.jpg)
+![Architecture](https://seugit.github.io/Chunmei-XU.github.io/assets/images/gencom.jpg)
 
 ---
 <div style="margin-top: 1.5em; margin-bottom: 2em; display: flex; align-items: flex-start;">
-  <img src="/assets/images/cx.jpg" alt="Chunmei Xu" style="width: 105px; height: 105px; border-radius: 50%; object-fit: cover; margin-right: 16px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);">
+  <img src="https://seugit.github.io/Chunmei-XU.github.io/assets/images/cx.jpg" alt="Chunmei Xu" style="width: 105px; height: 105px; border-radius: 50%; object-fit: cover; margin-right: 16px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);">
   <div>
     <p style="margin: 0; font-weight: bold; font-size: 0.85em;">Chunmei Xu</p>  
     <p style="margin: 0;">
