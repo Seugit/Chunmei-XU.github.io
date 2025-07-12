@@ -12,6 +12,9 @@ tags:
   - test
 ---
 
+Show your key insights, amazing vision, fantastic results, etc. 
+
+Please do not think of it as a task but a way of reflection, revisiting, and rethinking
 
 
 We introduce **GenCom**, a GenAI-powered framework for lightweight, low-SNR, high-QoE wireless communication.
@@ -20,6 +23,7 @@ We introduce **GenCom**, a GenAI-powered framework for lightweight, low-SNR, hig
 - Lightweight source encoder 
 - GenAI-enabled receiver
 - Robust transmission under poor channels
+
 
 ![Architecture](https://seugit.github.io/Chunmei-XU.github.io/assets/images/gencom.jpg)
 
